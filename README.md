@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @99GBVertex
 - 👀 I’m interested in Rendering API's with C++
 - 🌱 I’m currently learning Vulkan API
-- 💞️ I’m looking to collaborate on company that makes 3D graphic contents ( Maybe it's a game? )
+- 💞️ I’m looking to collaborate on company that makes 3D graphic contents
 - 📫 How to reach me : mail to icecream3605@gmail.com
 
 <!---
